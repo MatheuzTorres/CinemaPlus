@@ -1,4 +1,5 @@
 # CinemaPlus
+<<<<<<< HEAD
 
 Sistema de venda de ingressos de cinema. Projeto desenvolvido para a disciplina IC823.
 
